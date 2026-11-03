@@ -1,0 +1,15 @@
+:root {
+  --brand-pink: #FF0A5C;
+  --brand-midnight: #0B0718;
+  --brand-surface: #130C27;
+  --brand-pearl: #F7F2FF;
+  --brand-coral: #FF7C91;
+  --brand-lilac: #AF8DDD;
+  --brand-wood: #38234F;
+  --brand-muted: #A69CC4;
+  --brand-green: #36D996;
+  --brand-display: 'Bricolage Grotesque', sans-serif;
+  --brand-body: 'Geist Sans', sans-serif;
+  --brand-card-radius: 22px;
+  --brand-motion: 300ms cubic-bezier(.22,1,.36,1);
+}

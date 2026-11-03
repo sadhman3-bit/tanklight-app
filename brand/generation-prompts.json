@@ -1,0 +1,6 @@
+{
+  "tool": "Built-in image_gen",
+  "reference": "aquascapes/02-driftwood-forest.png",
+  "chosenArtworkPrompt": "Use the provided selected Driftwood Forest concept as the exact design reference. Deliver ONLY the aquarium emblem, no lettering or small app icon, on a transparent background. Preserve branching driftwood, lush fern and moss planting masses at left, coral and lavender foliage, stones and open winding sand at right. Preserve overhead horizontal lamp, sun and rounded tank. FLATTEN THE STYLE completely: crisp solid-color graphic shapes, matte 2D vector illustration, zero bevel, zero rim light, zero bloom, zero glow, zero shadow, zero texture, zero speckles. Thick clean flat #FF0A5C tank outline and lamp, flat coral and lavender layered plants, dark violet driftwood with flat coral edge accents. Beam is one single uniform 15%-opacity pink trapezoid, NOT a luminous gradient. Use the same premium illustrated landscape as the reference. Full emblem centered with transparent margin. It must look like clean editorial SVG artwork, NOT glossy plastic or neon signage.",
+  "compactVector": "Native SVG companion drawn in tools/brand-shapes.mjs; generated glowing icon exploration was discarded."
+}
